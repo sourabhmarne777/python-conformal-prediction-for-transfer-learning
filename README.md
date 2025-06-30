@@ -7,8 +7,8 @@ A Python implementation of Conformal Prediction algorithms using KNN-1 nearest n
 Conformal Prediction is a framework that provides reliable confidence measures for machine learning predictions. This implementation focuses on:
 
 - **Two Conformal Prediction Methods**: 
-  - Method 1: Nearest Neighbors to Different Class
-  - Method 2: Nearest Neighbors to Different/Same Class Ratio
+    Method 1: Nearest Neighbors to Different Class
+    Method 2: Nearest Neighbors to Different/Same Class Ratio
 - **Transfer Learning Evaluation**: Testing algorithm performance under distribution shifts
 - **Noise Robustness Analysis**: Assessing performance across varying noise levels
 - **Artificial Dataset Generation**: Creating controlled experimental environments
